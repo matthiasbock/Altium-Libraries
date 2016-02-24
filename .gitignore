@@ -4,3 +4,10 @@ Project */
 Thumbs.db
 *.htm
 *.html
+
+*~
+.*.swp
+
+3d_bodies/*.png
+3d_bodies/*.step
+
