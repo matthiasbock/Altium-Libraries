@@ -16,5 +16,5 @@ clean:
 	rm -f 3d_bodies/*.png
 
 %.png: %.scad
-	$(SC) $< -o $@
+	$(SC) "$<" -o "$@"
 
