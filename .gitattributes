@@ -1,0 +1,5 @@
+*.SchLib binary
+*.PcbLib binary
+*.stp text
+*.scad text
+*.md text
