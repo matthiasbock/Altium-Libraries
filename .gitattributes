@@ -1,5 +1,10 @@
 *.SchLib binary
 *.PcbLib binary
 *.stp text
+*.step text
 *.scad text
 *.md text
+
+# Ignore all differences in line endings
+* -crlf
+
