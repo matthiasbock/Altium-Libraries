@@ -1,9 +1,14 @@
 # 3D models by Würth
 
-The files in this subfolder are downloaded from https://katalog.we-online.com/.
+3D models by Würth for Würth components
 
-## Terms and Conditions
+Source: https://katalog.we-online.com/
 
+## Usage terms
+
+Source: https://we-online.com
+
+~~~
 Please carefully read the disclaimer before using any of this data.
 Your use of this data constitutes your acceptance of the
 terms and conditions set forth below.
@@ -49,3 +54,4 @@ guarantee or vary any provision or information herein,
 and you may not rely on any such information or advice.
 Würth Elektronik eiSos reserves the right to change any
 portion of this data at any time without notice.
+~~~
